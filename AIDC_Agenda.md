@@ -5,8 +5,11 @@
 A side meeting at IETF 117
 
 Time: 15:30 - 17:00 Monday, July 24 2023
+
 Location: Continental 2-3
+
 Chairs:
+
 Jeff Tantsura (jefftant.ietf@gmail.com)
 Yingzhen Qu (yingzhen.ietf@gmail.com)
 
